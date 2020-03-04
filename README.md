@@ -1,7 +1,7 @@
 # AP_Comp_Sci_Portfolio
 My Portfolio for AP Computer Science
 ## About 
-All of these projects are currently still being worked on and added too. I can almost assure that none of these are perfect, but I am doing my best to make them more consistent and implement better programming practices. This repository contains some Java projects as well as some previous Python scripts of mine as Python is my preffered language to work with. I am always improving and updating these projects with bug fixes, new features, and better ways of doing things.
+All of these projects are currently still being worked on and added to. I can almost assure that none of these are perfect, but I am doing my best to make them more consistent and implement better programming practices. This repository contains some Java projects as well as some previous Python scripts of mine as Python is my preffered language to work with. I am always improving and updating these projects with bug fixes, new features, and better ways of doing things.
 ## Projects Currently On Here
 * BeatportStuff
   * Beatport_Selenium
